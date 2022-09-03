@@ -1,0 +1,22 @@
+html {
+  font-size: 62.5%;
+  box-sizing: border-box;
+  min-height: 100vh;
+}
+
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: inherit;
+}
+
+.container {
+  margin: auto;
+  background: url(untitled.jpg);
+  width: 375px;
+  height: 667px;
+  background-size: contain;
+}
