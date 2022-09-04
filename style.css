@@ -16,7 +16,7 @@ html {
 .container {
   margin: auto;
   background: url(untitled.jpg);
-  width: 48rem;
-  height: 96rem;
+  width: 48em;
+  height: 96em;
   background-size: contain;
 }
